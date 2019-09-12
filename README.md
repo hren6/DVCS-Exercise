@@ -8,14 +8,14 @@ Short answer
 3. under "repository", press "open in command prompt"
 4. toggle full screen, reset zoom, zoom in, zoom out
 5. remote, ignored files
-6. 4
+6. d
 7. 1
-8. 4
-9. 2
-10. 2
-11. 2
-12. 4
-13. 2
-14. 4
-15. 1
-16. 3
+8. d
+9. b
+10. b
+11. b
+12. d
+13. b
+14. d
+15. a
+16. c
