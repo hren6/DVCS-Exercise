@@ -9,7 +9,7 @@ Short answer
 4. toggle full screen, reset zoom, zoom in, zoom out
 5. remote, ignored files
 6. d
-7. 1
+7. a
 8. d
 9. b
 10. b
