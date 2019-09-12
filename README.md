@@ -1,11 +1,5 @@
 # DVCS-Exercise
 Hang Ren
-1. f
-2. d
-3. e
-4. b
-5. c
-6. a
 
 Short answer
 
