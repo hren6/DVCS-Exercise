@@ -1,6 +1,10 @@
 # DVCS-Exercise
 Hang Ren
-
+F
+D
+B
+C
+A
 Short answer
 
 1. under "repository", press "show the explorer"
